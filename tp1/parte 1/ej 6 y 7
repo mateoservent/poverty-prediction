@@ -1,0 +1,18 @@
+6) 
+# Resolver acá
+mi_lista = [10, 34.5, 99999, 'abc', [1,2,3], ('ARG', 1810), {'pob': 45}, True]
+for elemento in mi_lista:
+    tipo = type(elemento).__name__
+    print(f"El tipo de dato u objeto es: {tipo}")
+
+7)
+# Resolver acá
+mi_lista = ['uno', 'dos','tres', 'cuatro', 5, 'seis']
+for elemento in mi_lista:
+    tipo = type(elemento).__name__
+    if not isinstance(elemento, str):
+        print(f"{elemento} no es un string: {elemento}  | {tipo} ")
+    else: 
+        print(elemento) 
+        print(len(elemento))
+   
