@@ -1,4 +1,4 @@
 # Big-Data
 
 
-Recursos para aprendizaje y enseñanza de big data con Python.
+Recursos para aprendizaje y enseñanza de machine learning aplicado con Python.
