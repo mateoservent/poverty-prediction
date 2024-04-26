@@ -1,4 +1,4 @@
-# Big data
+# Poverty Prediction - Machine Learning Course
 
 ## General information
 * Department of Economics - Universidad de San Andrés
