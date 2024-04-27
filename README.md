@@ -6,3 +6,8 @@
 
 
 The final Jupyter Notebook and report can be found **[here](https://github.com/mateoservent/Big-Data/tree/main/Code/TP4)**.
+
+
+
+<img src="data/Lasso.png" width="160px"/>
+
