@@ -9,5 +9,5 @@ The final Jupyter Notebook and report can be found **[here](https://github.com/m
 
 
 
-<img src="Data/Lasso.png" width="600px"/>
+<img src="Data/Lasso.png" width="400px"/>
 
