@@ -8,7 +8,7 @@
 The final Jupyter Notebook and report can be found **[here](https://github.com/mateoservent/Big-Data/tree/main/Code/TP4)**.
 
 
-### Mean square errors according to Lambdas in Lasso
+## Mean square errors according to Lambdas in Lasso
 
-<img src="Data/lasso.png" width="400px"/>
+<img src="Data/Lasso.png" width="400px"/>
 
